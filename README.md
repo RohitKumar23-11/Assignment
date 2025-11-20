@@ -114,7 +114,7 @@ OR modify:
 PDF_PATH = "path/to/Data Input.pdf"
 ```
 
-## **2. Run the Extraction Script**
+## **2. Run the Assignment Script in jupyter notebook**
 
 Assignment.ipynb
 
