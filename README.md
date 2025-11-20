@@ -59,7 +59,7 @@ Every extracted value includes the **original sentence** from the PDF for tracea
 
 ### ✔ Matching Expected Output Format
 
-The structure and sheet name exactly match your provided **Output.xlsx** template.
+The structure and sheet name exactly match our provided **Output.xlsx** template.
 
 ### ✔ Beginner-Friendly but Full-Featured
 
@@ -126,7 +126,7 @@ The script will produce:
 C:/Users/Acer/New-Python_dir/assisment/Output.xlsx
 ```
 
-You will see a message like:
+We will see a message like:
 
 ```
 Written 30 rows to Output.xlsx
@@ -158,12 +158,12 @@ Written 30 rows to Output.xlsx
 
 ### **PDF text not extracted**
 
-Make sure **text is selectable** in your PDF (not scanned).
-If it's a scanned PDF → you must use OCR (Tesseract).
+Make sure **text is selectable** in our PDF (not scanned).
+If it's a scanned PDF → we must use OCR (Tesseract).
 
 ### **Regex not matching**
 
-Your resume or document must follow a similar structure
+our resume or document must follow a similar structure
 because extraction depends on predictable patterns.
 
 ### **Output Excel not updating**
@@ -176,5 +176,5 @@ Close the file before running the script again.
 
 * No ML models are used — the extraction relies only on **regex** and **rule-based NLP**.
 * The script is optimized for the structure of **Data Input.pdf**.
-* You can extend extraction logic easily by adding new regex patterns.
+* We can extend extraction logic easily by adding new regex patterns.
 
