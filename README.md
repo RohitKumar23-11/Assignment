@@ -178,5 +178,3 @@ Close the file before running the script again.
 * The script is optimized for the structure of **Data Input.pdf**.
 * You can extend extraction logic easily by adding new regex patterns.
 
-
-If you'd like me to format this as a **Markdown file** in your project folder or add a **requirements.txt**, just tell me!
