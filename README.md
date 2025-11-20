@@ -74,7 +74,7 @@ project/
 │
 ├── Data Input.pdf
 ├── Output.xlsx            (Generated automatically)
-├── extractor.py           (Your main Python script)
+├── Assinment.ipynb        (Your main Python script)
 └── README.md
 ```
 
