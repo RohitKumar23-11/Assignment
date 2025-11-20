@@ -116,11 +116,7 @@ PDF_PATH = "path/to/Data Input.pdf"
 
 ## **2. Run the Extraction Script**
 
-From your terminal:
-
-```bash
-python extractor.py
-```
+Assignment.ipynb
 
 ## **3. Output File**
 
